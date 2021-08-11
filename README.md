@@ -34,7 +34,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você tem instalado o `git` e o `hugo`
-* Você tem uma máquina `Windows / Linux / Mac`.
 * Você seguiu a gente no [Instagram](https://www.instagram.com/peteletricaufba/) :laughing:
 
 Para verificar se você tem instalado o `hugo` e o `git` execute os comandos a seguir:
@@ -124,7 +123,7 @@ cd peteletricaufba.github.io/
 
 Deixe esse terminal aberto. Se tudo der certo, você vai ver o site neste link: [http://localhost:1313](http://localhost:1313)
 
-3. Faça mudanças no site e veja as alterações em tempo real
+3. Faça mudanças no site editando os arquivos da pasta `/content` e veja as alterações em tempo real
 <center>
 <img src="assets/editing.gif">
 </center>
