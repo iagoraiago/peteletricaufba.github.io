@@ -1,10 +1,10 @@
-<h1 align="center" id="site-do-pet">
+<!-- <h1 align="center" id="site-do-pet">
   <br>
   <a href="#"><img src="https://raw.githubusercontent.com/PETEletricaUFBA/peteletricaufba.github.io/main/static/images/logo.png" alt="Just a simple icon" width="100px"></a>
   <br>
   Site do PET Elétrica
   <br>
-</h1>
+</h1>  LOGO DUPLICADA?????-->
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -33,8 +33,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você tem instalado o `git` e o `hugo`
-* Você seguiu a gente no [Instagram](https://www.instagram.com/peteletricaufba/) :laughing:
+- Você tem instalado o `git` e o `hugo`
+- Você seguiu a gente no [Instagram](https://www.instagram.com/peteletricaufba/) :laughing:
 
 Para verificar se você tem instalado o `hugo` e o `git` execute os comandos a seguir:
 
@@ -52,7 +52,7 @@ Caso não tenha algum dos requisições, siga os passos abaixo:
 
 Para instalar o requisitos, execute os comandos:
 
-### Git:
+### Git
 
 ```bash
 # ---------------- Linux ----------------
@@ -69,12 +69,12 @@ choco install git
 # ----------------- Mac -----------------
 brew install git
 ```
+
 - Para mais detalhes sobre a instalação do `git` no Linux, [clique aqui](https://git-scm.com/download/linux).
 - Para mais detalhes sobre a instalação do `git` no Windows, [clique aqui](https://git-scm.com/download/windows).
 - Para mais detalhes sobre a instalação do `git` no Mac, [clique aqui](https://git-scm.com/download/mac).
 
-
-### Hugo:
+### Hugo
 
 ```bash
 # ---------------- Linux ----------------
@@ -95,6 +95,7 @@ brew install hugo
 # ou
 port install hugo
 ```
+
 Para mais detalhes sobre a instalação do `hugo`, [clique aqui](https://gohugo.io/getting-started/installing).
 
 ## ☕ Usando o Site do PET Elétrica
@@ -117,6 +118,7 @@ cd peteletricaufba.github.io/
 ```
 
 2. Execute o Site do PET no seu computador.
+
 <center>
 <img src="assets/execute.gif">
 </center>
@@ -124,15 +126,18 @@ cd peteletricaufba.github.io/
 Deixe esse terminal aberto. Se tudo der certo, você vai ver o site neste link: [http://localhost:1313](http://localhost:1313)
 
 3. Faça mudanças no site editando os arquivos da pasta `/content` e veja as alterações em tempo real
+
 <center>
 <img src="assets/editing.gif">
 </center>
 
 4. Quando estiver tudo pronto, feche o servidor local naquele terminal apertando `Ctrl+C` e gere as páginas do site!
+
 ```python
 # Para gerar as páginas:
 hugo -D
 ```
+
 <center>
 <img src="assets/generate.gif">
 </center>
@@ -150,7 +155,7 @@ Se quiser "fortalecer" aí sugerindo correções de ortografia ou erros no site,
 
 > Se tiver uma contribuição rápida que não envolve código, conteúdo ou quiser reportar algum problema sem ter que propor mudanças [clique aqui](https://github.com/PETEletricaUFBA/peteletricaufba.github.io/issues/new)
 
-### Caso contrário, siga estes passos:
+### Caso contrário, siga estes passos
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b correcaoBlog`.
@@ -202,7 +207,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     -->
   </tr>
 </table>
-
 
 ## 😄 Seja um das pessoas contribuidoras<br>
 
