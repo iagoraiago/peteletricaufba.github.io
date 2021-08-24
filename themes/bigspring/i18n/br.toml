@@ -1,0 +1,23 @@
+[readmore]
+other = "Leia Mais"
+
+[translations]
+other="Traduções"
+
+[error404]
+other = "Sentimos muito, mas não irá encontrar nada aqui."
+
+[yourname]
+other = "Seu Nome"
+
+[youremail]
+other = "Seu Email"
+
+[subject]
+other = "Assunto"
+
+[yourmessage]
+other = "Sua mensagem"
+
+[sendnow]
+other = "Envie agora"

@@ -1,4 +1,5 @@
 # Easy Setup (Hugo + Netlify + Forestry)
+
 Build your website with bigspring theme by following this easy steps (No Coding Required)
 
 _Checkout this video tutorial_
@@ -6,12 +7,11 @@ _Checkout this video tutorial_
 
 In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
 
-### What you need !!
+### What you need
 
 1. Git acccount (Ex: Github, Gitlab etc ) . In our case we use github.
 2. [Netlify](https://netlify.app/) account to host files and add custom domain .
 3. [Forestry](https://forestry.io) account to maintain whole project without code.
-
 
 ### Step 1 : Fork or Clone repository
 
@@ -31,7 +31,6 @@ Here comes the last step . Go to your [netlify](https://netlify.app/) account an
 
 > If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/bigspring-hugo-startup-theme/issues)
 
-
 ## Table of Contents
 
 - [Demo](#demo)
@@ -47,6 +46,7 @@ Here comes the last step . Go to your [netlify](https://netlify.app/) account an
 [Live Preview](http://demo.gethugothemes.com/bigspring/).
 
 ## Quick Start
+
 Quick start options:
 
 - Clone the repo: `git clone https://github.com/themefisher/bigspring-hugo-startup-theme.git`.
@@ -54,13 +54,15 @@ Quick start options:
 - [Download from gethugothemes website](https://gethugothemes.com/products/bigspring/).
 
 ## Installation
+
 At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
 
 ```
-$ git clone git@github.com:themefisher/bigspring-hugo-startup-theme.git
-$ cd bigspring/exampleSite/
-$ hugo server --themesDir ../..
+git clone git@github.com:themefisher/bigspring-hugo-startup-theme.git
+cd bigspring/exampleSite/
+hugo server --themesDir ../..
 ```
+
 Or Check out [Full Documentation](https://docs.gethugothemes.com/bigspring/?ref=github).
 
 ## Reporting Issues
@@ -73,11 +75,13 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 ## License
+
 Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/bigspring-hugo-startup-theme/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+
 ## Premium Themes
 
 | [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![](https://gethugothemes.com/wp-content/uploads/edd/2020/09/Copper-hugo-sass-landingpage.jpg)](https://gethugothemes.com/products/copper/) | [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/) |

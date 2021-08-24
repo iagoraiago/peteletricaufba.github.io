@@ -2,6 +2,7 @@
 baseURL = "https://taffarel55.github.io/"
 title = "Site de teste do PET"
 theme = "bigspring"
+defaultContentLanguage = "br"
 # post pagination
 paginate = "3"
 # post excerpt
