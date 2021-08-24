@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Bigspring Hugo</title>
-    <link>https://taffarel55.github.io/categories/</link>
-    <description>Recent content in Categories on Bigspring Hugo</description>
+    <title>Categories on PET Eletrica UFBA</title>
+    <link>https://peteletricaufba.github.io/categories/</link>
+    <description>Recent content in Categories on PET Eletrica UFBA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://taffarel55.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Fri, 19 Oct 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://peteletricaufba.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>corrente-alternativa</title>
+      <link>https://peteletricaufba.github.io/categories/corrente-alternativa/</link>
+      <pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://peteletricaufba.github.io/categories/corrente-alternativa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dicas-e-tutoriais</title>
+      <link>https://peteletricaufba.github.io/categories/dicas-e-tutoriais/</link>
+      <pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://peteletricaufba.github.io/categories/dicas-e-tutoriais/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
