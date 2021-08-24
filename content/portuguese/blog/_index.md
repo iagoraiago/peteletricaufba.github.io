@@ -1,5 +1,5 @@
 ---
-title: "Latest News"
+title: "Corrente Alternativa"
 subtitle: ""
 # meta description
 description: "This is meta description"
