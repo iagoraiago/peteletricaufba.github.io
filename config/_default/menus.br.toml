@@ -1,6 +1,6 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Página Inicial"
 url = "/"
 weight = 1
 
@@ -26,7 +26,7 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "Contato"
 url = "#"
 
 [[footer_left]]

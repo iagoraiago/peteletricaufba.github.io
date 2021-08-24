@@ -12,7 +12,7 @@ description: "This is meta description"
 # post draft
 draft: false
 
-autor: 
+authors: "cicrano"
 ---
 
 [![](../../images/blog/corrente-1/Manual-da-Marca-Capa-300x197.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1168)
