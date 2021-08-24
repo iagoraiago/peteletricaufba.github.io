@@ -4,7 +4,7 @@ date: "2018-06-01"
 categories: 
   - "corrente-alternativa"
   - "engenharia-eletrica"
-coverImage: "plant-technology-ceiling-professional-room-energy-789095-pxhere.com_menor2.jpg"
+image: "../../images/blog/2018-06-01-novas-regras-para-o-estagio-curricular-esta-sendo-discutida-no-colegiado.jpg"
 autor: 
 type: "featured"
 ---

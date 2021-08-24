@@ -4,7 +4,7 @@ date: "2018-02-28"
 categories: 
   - "acoes-pet"
   - "corrente-alternativa"
-coverImage: "conexao1.jpg"
+image: "../../images/blog/2018-02-28-aconteceu-o-conexao-pet.jpg"
 autor: 
 type: "featured"
 ---

@@ -4,7 +4,7 @@ date: "2018-11-17"
 categories: 
   - "acoes-pet"
   - "corrente-alternativa"
-image: "photo5143201579111917520.jpg"
+image: "../../images/blog/2018-11-17-criancas-hackers-na-escola.jpg"
 autor: 
 type: "featured"
 ---

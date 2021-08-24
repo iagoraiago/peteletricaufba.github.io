@@ -4,7 +4,7 @@ date: "2020-03-23"
 categories: 
   - "acoes-pet"
   - "corrente-alternativa"
-coverImage: "370_ProjetoExpandir_14-de-março-de-2020-min.jpg"
+image: "../../images/blog/2020-03-23-expandir2020.jpg"
 type: "featured"
 autor: mauricioTaffarel
 ---

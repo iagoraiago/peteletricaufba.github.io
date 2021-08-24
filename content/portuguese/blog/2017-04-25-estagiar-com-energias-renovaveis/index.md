@@ -4,7 +4,7 @@ date: "2017-04-25"
 categories: 
   - "corrente-alternativa"
   - "engenharia-eletrica"
-coverImage: "bancada_png8.png"
+image: "../../images/blog/2017-04-25-estagiar-com-energias-renovaveis.png"
 type: "featured"
 ---
 

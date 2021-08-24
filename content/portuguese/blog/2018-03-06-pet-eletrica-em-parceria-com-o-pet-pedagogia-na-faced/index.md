@@ -4,7 +4,7 @@ date: "2018-03-06"
 categories: 
   - "acoes-pet"
   - "corrente-alternativa"
-coverImage: "foto2.png"
+image: "../../images/blog/2018-03-06-pet-eletrica-em-parceria-com-o-pet-pedagogia-na-faced.png"
 autor: 
 type: "featured"
 ---

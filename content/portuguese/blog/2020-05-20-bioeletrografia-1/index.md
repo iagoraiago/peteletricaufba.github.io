@@ -13,7 +13,7 @@ tags:
   - "misterios-da-engenharia"
   - "perianto"
   - "sobrenatural"
-coverImage: "unnamed.jpg"
+image: "../../images/blog/2020-05-20-bioeletrografia-1.jpg"
 autor: josiasLima
 type: "featured"
 ---

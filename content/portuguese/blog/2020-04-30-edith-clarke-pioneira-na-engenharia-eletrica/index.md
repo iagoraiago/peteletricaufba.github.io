@@ -8,7 +8,7 @@ tags:
   - "edith-clarke"
   - "engenheiras-de-sucesso"
   - "mulheres-na-engenharia"
-coverImage: "Edith-Clarke.jpeg"
+image: "../../images/blog/2020-04-30-edith-clarke-pioneira-na-engenharia-eletrica.jpeg"
 autor: marianaNascimento
 type: "featured"
 ---

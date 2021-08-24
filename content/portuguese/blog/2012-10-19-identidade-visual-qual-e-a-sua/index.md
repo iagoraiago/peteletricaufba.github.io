@@ -4,7 +4,7 @@ date: "2012-10-19"
 categories: 
   - "corrente-alternativa"
   - "dicas-e-tutoriais"
-image: "../../images/Logo-do-PET-Oficial.png"
+image: "../../images/blog/2012-10-19-identidade-visual-qual-e-a-sua.png"
 autor:
 type: "featured"
 ---

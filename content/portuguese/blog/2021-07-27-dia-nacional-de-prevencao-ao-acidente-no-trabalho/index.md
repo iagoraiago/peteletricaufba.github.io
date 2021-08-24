@@ -8,7 +8,7 @@ tags:
   - "acidentes"
   - "normas"
   - "seguranca"
-image: "post_ca_seguranca.jpg"
+image: "../../images/post_ca_seguranca.jpg"
 autor: rafaelShort
 type: "featured"
 ---

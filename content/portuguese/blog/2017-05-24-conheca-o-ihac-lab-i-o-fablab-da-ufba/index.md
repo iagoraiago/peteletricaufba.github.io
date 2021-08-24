@@ -5,7 +5,7 @@ categories:
   - "corrente-alternativa"
   - "engenharia-eletrica"
   - "tecnologia-e-inovacao"
-coverImage: "IHAC_corrente_alternativa.jpg"
+image: "../../images/blog/2017-05-24-conheca-o-ihac-lab-i-o-fablab-da-ufba.jpg"
 autor: silviaCaldeira
 type: "featured"
 ---
