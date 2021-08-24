@@ -24,7 +24,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] 20/08: Definição do sitemap, corpo das páginas e migração do WP
+- [x] 20/08: Definição do sitemap, corpo das páginas e migração do WP
 - [ ] 27/08: Edições no template, se necessário e ajustes nos arquivos do post
 - [ ] 03/08: Finalizações das páginas.
 - [ ] Pepinos futuros ainda não previstos...
@@ -97,11 +97,17 @@ port install hugo
 ```
 Para mais detalhes sobre a instalação do `hugo`, [clique aqui](https://gohugo.io/getting-started/installing).
 
-## ☕ Usando o Site do PET Elétrica
+## ☕ Editando o Site do PET Elétrica
 
-Para usar o Site do PET, siga estas etapas:
+Para editar o Site do PET, siga estas etapas:
 
-1. Baixe o Site do PET para uma pasta no seu computador, extraia e abra a pasta.
+1. Faça uma bifurcação do Site do PET para sua conta:
+
+<center>
+<img src="assets/forking.gif">
+</center>
+
+2. Baixe o Site do PET para uma pasta no seu computador, extraia e abra a pasta.
 
 <center>
 <img src="assets/download.gif">
@@ -116,19 +122,19 @@ git clone https://github.com/PETEletricaUFBA/peteletricaufba.github.io.git
 cd peteletricaufba.github.io/
 ```
 
-2. Execute o Site do PET no seu computador.
+3. Execute o Site do PET no seu computador.
 <center>
 <img src="assets/execute.gif">
 </center>
 
 Deixe esse terminal aberto. Se tudo der certo, você vai ver o site neste link: [http://localhost:1313](http://localhost:1313)
 
-3. Faça mudanças no site editando os arquivos da pasta `/content` e veja as alterações em tempo real
+4. Faça mudanças no site editando os arquivos da pasta `/content` e veja as alterações em tempo real
 <center>
 <img src="assets/editing.gif">
 </center>
 
-4. Quando estiver tudo pronto, feche o servidor local naquele terminal apertando `Ctrl+C` e gere as páginas do site!
+5. Quando estiver tudo pronto, feche o servidor local naquele terminal apertando `Ctrl+C` e gere as páginas do site!
 ```python
 # Para gerar as páginas:
 hugo -D
