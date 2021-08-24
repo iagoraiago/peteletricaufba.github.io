@@ -224,7 +224,7 @@ a:hover {
   background-color: #001d7e !important; }
 
 .bg-light {
-  background-color: #c2d1ff !important; }
+  background-color: #d1dcff !important; }
 
 .text-primary {
   color: #001d7e !important; }
@@ -495,7 +495,7 @@ a.post-title {
     height: 40px;
     line-height: 40px;
     border-radius: 5px;
-    background: #c2d1ff;
+    background: #d1dcff;
     text-align: center;
     padding: 0;
     margin-right: 10px;

@@ -15,7 +15,7 @@ body_color = "#fff"
 border_color = "#ECECEC"
 black = "#000"
 white = "#fff"
-light = "#c2d1ff"
+light = "#d1dcff"
 
 # font variable
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"

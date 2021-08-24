@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://taffarel55.github.io/"
+baseURL = "https://peteletricaufba.github.io/"
 title = "Site de teste do PET"
 theme = "bigspring"
 defaultContentLanguage = "br"
@@ -15,5 +15,5 @@ googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
 unsafe = true
 
-## added by taffarel55
-publishDir = "/docs"
+# added by taffarel55
+publishDir = "docs"

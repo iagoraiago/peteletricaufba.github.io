@@ -2,142 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://taffarel55.github.io/</loc>
+    <loc>https://peteletricaufba.github.io/en/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://peteletricaufba.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://peteletricaufba.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://peteletricaufba.github.io/en/"
+                />
+  </url><url>
+    <loc>https://peteletricaufba.github.io/en/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/"
+                href="https://peteletricaufba.github.io/de/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/"
+                href="https://peteletricaufba.github.io/en/blog/post-1/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/blog/post-1/</loc>
+    <loc>https://peteletricaufba.github.io/en/blog/post-4/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url><url>
+    <loc>https://peteletricaufba.github.io/en/blog/post-5/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url><url>
+    <loc>https://peteletricaufba.github.io/en/blog/post-6/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url><url>
+    <loc>https://peteletricaufba.github.io/en/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="br"
+                href="https://peteletricaufba.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/blog/post-1/"
+                href="https://peteletricaufba.github.io/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/blog/post-1/"
+                href="https://peteletricaufba.github.io/en/blog/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/blog/post-4/</loc>
+    <loc>https://peteletricaufba.github.io/en/blog/post-2/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>https://taffarel55.github.io/blog/post-5/</loc>
+    <loc>https://peteletricaufba.github.io/en/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>https://taffarel55.github.io/blog/post-6/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>https://taffarel55.github.io/blog/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://peteletricaufba.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://peteletricaufba.github.io/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/blog/"
+                href="https://peteletricaufba.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/blog/"
+                href="https://peteletricaufba.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/blog/post-2/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>https://taffarel55.github.io/blog/post-3/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>https://taffarel55.github.io/categories/</loc>
+    <loc>https://peteletricaufba.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/categories/"
+                href="https://peteletricaufba.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/categories/"
+                href="https://peteletricaufba.github.io/en/contact/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/contact/</loc>
+    <loc>https://peteletricaufba.github.io/en/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/contact/"
+                href="https://peteletricaufba.github.io/de/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/contact/"
+                href="https://peteletricaufba.github.io/en/faq/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/faq/</loc>
+    <loc>https://peteletricaufba.github.io/en/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/faq/"
+                href="https://peteletricaufba.github.io/de/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/faq/"
+                href="https://peteletricaufba.github.io/en/pricing/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/pricing/</loc>
+    <loc>https://peteletricaufba.github.io/en/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://peteletricaufba.github.io/privacy-policy/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/pricing/"
+                href="https://peteletricaufba.github.io/de/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/pricing/"
+                href="https://peteletricaufba.github.io/en/privacy-policy/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/privacy-policy/</loc>
+    <loc>https://peteletricaufba.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://peteletricaufba.github.io/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/privacy-policy/"
+                href="https://peteletricaufba.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/privacy-policy/"
+                href="https://peteletricaufba.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://taffarel55.github.io/tags/</loc>
+    <loc>https://peteletricaufba.github.io/en/terms-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://peteletricaufba.github.io/terms-conditions/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://taffarel55.github.io/de/tags/"
+                href="https://peteletricaufba.github.io/de/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://taffarel55.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://taffarel55.github.io/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://taffarel55.github.io/de/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://taffarel55.github.io/terms-conditions/"
+                href="https://peteletricaufba.github.io/en/terms-conditions/"
                 />
   </url>
 </urlset>
