@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bot on PET Eletrica UFBA</title>
+    <link>https://peteletricaufba.github.io/tags/bot/</link>
+    <description>Recent content in bot on PET Eletrica UFBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://peteletricaufba.github.io/tags/bot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial para desenvolvimento de bots</title>
+      <link>https://peteletricaufba.github.io/blog/2021-02-09-tutorial-para-desenvolvimento-de-bots/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://peteletricaufba.github.io/blog/2021-02-09-tutorial-para-desenvolvimento-de-bots/</guid>
+      <description>Os bots ou robôs virtuais são aplicações computacionais programadas para realizar, de forma autônoma, uma tarefa previamente determinada.</description>
+    </item>
+    
+  </channel>
+</rss>
