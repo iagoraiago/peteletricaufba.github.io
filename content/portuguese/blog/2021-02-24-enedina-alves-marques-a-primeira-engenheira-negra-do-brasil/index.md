@@ -8,7 +8,7 @@ tags:
   - "engenheiras-de-sucesso"
   - "gpef"
   - "mulheres-na-engenharia"
-coverImage: "Enedina-Marques-1-1009x646.jpg"
+image: "../../images/blog/2021-02-24-enedina-alves-marques-a-primeira-engenheira-negra-do-brasil.jpg"
 autor: moiraPrates
 type: "featured"
 ---

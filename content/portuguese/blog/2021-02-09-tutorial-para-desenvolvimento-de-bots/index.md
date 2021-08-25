@@ -9,7 +9,7 @@ tags:
   - "bot"
   - "chatbot"
   - "integromat"
-coverImage: "postbotcapa.jpg"
+image: "../../images/blog/2021-02-09-tutorial-para-desenvolvimento-de-bots.jpg"
 autor: brenoAmin, mauricioTaffarel, rafaelShort
 type: "featured"
 ---

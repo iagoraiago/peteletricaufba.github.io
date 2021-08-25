@@ -8,7 +8,7 @@ tags:
   - "batalhadascorrentes"
   - "nikolatesla"
   - "thomasedison"
-coverImage: "bdc1.jpg"
+image: "../../images/blog/2020-06-23-batalha-das-correntes.jpg"
 autor: rafaelShort
 type: "featured"
 ---
@@ -19,7 +19,7 @@ Na segunda metade do século XIX, as máquinas ainda exigiam a força mecânica 
 
 Nessa época, ele já havia acumulado muita fama e carregava o apelido de “Mago de Menlo Park”. Até que 2 anos após ter inventado o fonógrafo, ele investiu seus esforços na busca de uma fonte de luz capaz de substituir as ultrapassadas luminárias.
 
-Edison se deparou com a derrota em centenas de tentativas. Apesar disso, sua persistência permitiu que, em 21 de Outubro de 1879, ele descobrisse uma forma segura e durável de ligar uma lâmpada com a energia elétrica. O segredo para essa conquista foi o uso do filamento de carbono pelo qual a corrente elétrica atravessa. O uso desse elemento permitiu que a lâmpada fornecesse luz por mais tempo. 
+Edison se deparou com a derrota em centenas de tentativas. Apesar disso, sua persistência permitiu que, em 21 de Outubro de 1879, ele descobrisse uma forma segura e durável de ligar uma lâmpada com a energia elétrica. O segredo para essa conquista foi o uso do filamento de carbono pelo qual a corrente elétrica atravessa. O uso desse elemento permitiu que a lâmpada fornecesse luz por mais tempo.
 
 Entretanto, o uso do projeto de Edison apresentava ainda um empecilho: os ambientes da época não tinham um sistema elétrico instalado. Isso, porém, não o impediu de desenvolver um modelo capaz de atender a seu novo invento.
 
@@ -57,15 +57,11 @@ Em vez disso, ele sugeriu que Tesla aperfeiçoasse o modelo da _Edison_ Electric
 
 Todavia, Edison não cumpriu com a sua palavra e Tesla não recebeu o prêmio acordado. Isso fez com que a _Edison Electric_ perdesse um funcionário e ganhasse um adversário com ideias promissoras.
 
- 
-
 ## A vala de Edison
 
 Em busca de um novo emprego, Tesla tem novamente seu caminho cruzado com a _Edison Electric_. Ele arrumou um trabalho como cavador de valas para passagem subterrânea de cabos da empresa de Edison. Ironicamente, nessa nova profissão, Nikola conseguiu apresentar suas ideias para o superintende do projeto de escavação e ele o indicou para um investidor de _Wall Street_.
 
 Tesla faz uso do experimento com um ovo girando sob controle da eletricidade para demonstrar um campo magnético giratório com corrente alternada. A analogia é um sucesso e Nikola consegue atrair seus primeiros investidores.
-
- 
 
 ## Quanto vale uma ideia?
 
@@ -91,8 +87,6 @@ Restava ainda um último desafio: a corrente alternada, sujeita a altas voltagen
 
 Em busca de uma solução, Tesla recorreu ao uso de um transformador o qual possibilita que a tensão diminua pela indução eletromagnética, garantindo a segurança do sistema elétrico.
 
- 
-
 ## Golpe baixo
 
 Apesar de todas as vantagens da AC, Edison mantém sua opinião inalterada. Ele busca usar de seu renome para convencer o maior número de pessoas sobre os perigos do sistema elétrico de Tesla.
@@ -100,8 +94,6 @@ Apesar de todas as vantagens da AC, Edison mantém sua opinião inalterada. Ele 
 Inicia-se, dessa maneira, uma campanha anticorrente alternada. A fim de obter apoio para essa causa, Edison eletrocuta inúmeros animais até a morte com a AC como forma de espantar os espectadores quanto ao uso desse modelo.
 
 Essas demonstrações fizeram com que Edison fosse convidado, pelo estado de Nova Iorque, para desenvolver uma forma menos dolorosa de executar criminosos. Assim, Thomas recomenda o uso do sistema adversário para a primeira cadeira elétrica. Então, o modelo de Tesla torna-se conhecido pela sua “corrente da morte”.
-
- 
 
 ## O ultimato
 
@@ -121,7 +113,7 @@ BATALHA de Genius Edison vs Tesla. Direção: Paul Abascal. Produção: Stephen 
 
 BATALHA das correntes. Direção: Alfonso Gomez-Rejon. \[_S. l._: _s. n._\], 2019. DVD.
 
-25 jan. 2017. Ilustração. Disponível em: https://hackaday.com/2017/01/25/tesla-vs-edison/. Acesso em: 1 jun. 2020.
+25 jan. 2017. Ilustração. Disponível em: <https://hackaday.com/2017/01/25/tesla-vs-edison/>. Acesso em: 1 jun. 2020.
 
 ### Quer ficar ligado nos nossos novos artigos?
 

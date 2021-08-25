@@ -10,16 +10,14 @@ tags:
   - "mulheres-na-engenharia"
   - "nasa"
   - "women-in-engineering"
-coverImage: "aprille.png"
+image: "../../images/blog/2020-07-22-aprille-ericsson-do-brooklyn-para-a-nasa.png"
 autor: moiraPrates
 type: "featured"
 ---
 
-Quando falamos em engenheiros nosso espaço amostral é gigante. Temos vários exemplos de todas as áreas possíveis, mas o que acontece quando fazemos o recorte feminino e perguntamos acerca das engenheiras? As opções que lhe vêm na cabeça se reduzem muito? E agora, se te perguntassem sobre engenheiras negras? Saberia apontar alguma? A ideia desse artigo é, primeiramente, fazer você se questionar. Por que temos menos engenheiras mulheres e por que quando falamos de mulheres negras o número reduz ainda mais? 
+Quando falamos em engenheiros nosso espaço amostral é gigante. Temos vários exemplos de todas as áreas possíveis, mas o que acontece quando fazemos o recorte feminino e perguntamos acerca das engenheiras? As opções que lhe vêm na cabeça se reduzem muito? E agora, se te perguntassem sobre engenheiras negras? Saberia apontar alguma? A ideia desse artigo é, primeiramente, fazer você se questionar. Por que temos menos engenheiras mulheres e por que quando falamos de mulheres negras o número reduz ainda mais?
 
 Internalize estes questionamentos para refletir um pouco mais tarde, porque o que queremos, neste momento, é que você conheça a Aprille Ericsson.
-
- 
 
 ## A APOLLO PLANTOU UMA SEMENTE
 
@@ -29,15 +27,13 @@ Nascida no ano de 1963, em Bed Stuy, Brooklyn, na cidade de Nova York; Aprille s
 
 ## DO SONHO À REALIDADE
 
-![](images/ericsson-aprille.jpg)Aprille formou-se em Engenharia Aeronáutica e Aeroespacial no MIT em 1986, aos 23 anos. Pouco depois conquistou o seu mestrado e doutorado em Engenharia Mecânica, pela Universidade de Howard, tornando-se a primeira Doutora Afro-americana. Posteriormente, tornou-se a primeira mulher Afro-americana a receber o Phd em Engenharia no NASA Goddard Space Flight Center (GSFC). 
+![](images/ericsson-aprille.jpg)Aprille formou-se em Engenharia Aeronáutica e Aeroespacial no MIT em 1986, aos 23 anos. Pouco depois conquistou o seu mestrado e doutorado em Engenharia Mecânica, pela Universidade de Howard, tornando-se a primeira Doutora Afro-americana. Posteriormente, tornou-se a primeira mulher Afro-americana a receber o Phd em Engenharia no NASA Goddard Space Flight Center (GSFC).
 
 Há 29 anos trabalhando na NASA, Aprille já fez parte de diversas missões. No centro de vôo Espacial Goddard ela começou trabalhando na concepção de sistemas de controle. Passou a ser conhecida na NASA como a cientista dos foguetes, pois uma de suas funções é projetar e construir os sistemas que controlam as espaçonaves.
 
- 
-
 ## PROJETOS
 
-![](images/LRO.jpg)Em um vídeo apresentado no World Science Festival, Aprille conta que seu projeto favorito é, até o momento, o Lunar Reconnaissance Orbiter (LRO), pois remete a quando estava na primeira série e teve a oportunidade ver o homem chegando a lua. Aprille trabalhou em todas as etapas de confecção do LRO, um satélite capaz de medir distâncias com extrema precisão. O LRO torna possível a criação de mapas tridimensionais da Lua, permitindo a visualização de crateras muito pequenas. 
+![](images/LRO.jpg)Em um vídeo apresentado no World Science Festival, Aprille conta que seu projeto favorito é, até o momento, o Lunar Reconnaissance Orbiter (LRO), pois remete a quando estava na primeira série e teve a oportunidade ver o homem chegando a lua. Aprille trabalhou em todas as etapas de confecção do LRO, um satélite capaz de medir distâncias com extrema precisão. O LRO torna possível a criação de mapas tridimensionais da Lua, permitindo a visualização de crateras muito pequenas.
 
 ![](images/JWST.jpg)Ela também faz parte do projeto do James Webb Space Telescope (JWST), que possui previsão de lançamento para 2021. Espera-se que, caso tudo ocorra bem, o JWST colete dados que possam dar dicas sobre a velocidade de expansão da Via Láctea.
 

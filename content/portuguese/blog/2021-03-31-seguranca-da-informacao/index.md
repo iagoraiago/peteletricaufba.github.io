@@ -8,7 +8,7 @@ tags:
   - "malwares"
   - "protecao-de-dados"
   - "seguranca-da-informacao"
-coverImage: "seg0.jpg"
+image: "../../images/blog/2021-03-31-seguranca-da-informacao.jpg"
 autor: rafaelShort
 type: "featured"
 ---

@@ -5,7 +5,7 @@ categories:
   - "acoes-pet"
   - "blog"
   - "corrente-alternativa"
-coverImage: "photo_2020-09-29_21-50-55.jpg"
+image: "../../images/blog/2020-11-25-ana-luisa-almeida-engenheira-alem-dos-calculos.jpg"
 autor: marianaNascimento
 type: "featured"
 ---

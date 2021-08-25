@@ -8,7 +8,7 @@ tags:
   - "backup"
   - "recuperacao-de-dados"
   - "seguranca-da-informacao"
-coverImage: "backup6.jpeg"
+image: "../../images/blog/2021-04-23-backup-recuperando-os-arquivos.jpeg"
 autor: rafaelShort
 type: "featured"
 ---

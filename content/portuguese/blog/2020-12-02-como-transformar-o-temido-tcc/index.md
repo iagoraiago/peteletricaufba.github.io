@@ -4,7 +4,7 @@ date: "2020-12-02"
 categories: 
   - "corrente-alternativa"
   - "engenharia-eletrica"
-coverImage: "tcc-direito.jpg"
+image: "../../images/blog/2020-12-02-como-transformar-o-temido-tcc.jpg"
 autor: matheusHandley
 type: "featured"
 ---

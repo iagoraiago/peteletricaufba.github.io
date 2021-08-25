@@ -9,7 +9,7 @@ tags:
   - "marcia-barbosa"
   - "mulheres-na-engenharia"
   - "onu"
-coverImage: "photo5102923096637155616.jpg"
+image: "../../images/blog/2021-03-24-marcia-barbosa-segundo-lista-da-onu-uma-das-mulheres-cientistas-que-todos-e-todas-deveriam-conhecer.jpg"
 autor: nathaneLima
 type: "featured"
 ---

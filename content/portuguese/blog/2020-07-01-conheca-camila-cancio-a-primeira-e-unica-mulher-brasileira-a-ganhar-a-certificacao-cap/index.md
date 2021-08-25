@@ -10,21 +10,20 @@ tags:
   - "certificacao-internacional"
   - "engenheiras-de-sucesso"
   - "mulheres-na-engenharia"
-coverImage: "Camila-Cancio.jpg"
+image: "../../images/blog/2020-07-01-conheca-camila-cancio-a-primeira-e-unica-mulher-brasileira-a-ganhar-a-certificacao-cap.jpg"
 autor: marianaNascimento
 type: "featured"
 ---
 
-Camila Cancio é formada em Engenharia Elétrica pela faculdade Área1 – Faculdade de Ciência e Tecnologia em Salvador-BA além de possuir MBA em Gerenciamento de Projetos pela FGV, pós-graduação em Engenharia de Processos Petroquímicos pela UFRJ, Universidade Federal do Rio de Janeiro e pós-graduação em Engenharia de Segurança do Trabalho pela UNIFAL, União de Faculdade de Alagoas. 
+Camila Cancio é formada em Engenharia Elétrica pela faculdade Área1 – Faculdade de Ciência e Tecnologia em Salvador-BA além de possuir MBA em Gerenciamento de Projetos pela FGV, pós-graduação em Engenharia de Processos Petroquímicos pela UFRJ, Universidade Federal do Rio de Janeiro e pós-graduação em Engenharia de Segurança do Trabalho pela UNIFAL, União de Faculdade de Alagoas.
 
-Fora sua rica formação, ainda possui duas certificações internacionais: PMP (_Project Management Professional_) do PMI (_Project Management Institute_) e CAP (_Certified Automation Professional_) da ISA (_International Society of Automation_), tendo destaque nesta última por ser a primeira e única mulher a conquistar essa certificação no Brasil. Possui também 14 anos de experiência na área de automação industrial, tendo atuado em empresas como Petrobrás e Yokogawa. 
+Fora sua rica formação, ainda possui duas certificações internacionais: PMP (_Project Management Professional_) do PMI (_Project Management Institute_) e CAP (_Certified Automation Professional_) da ISA (_International Society of Automation_), tendo destaque nesta última por ser a primeira e única mulher a conquistar essa certificação no Brasil. Possui também 14 anos de experiência na área de automação industrial, tendo atuado em empresas como Petrobrás e Yokogawa.
 
 Atualmente trabalha como Engenheira de Automação Industrial Sênior da planta de Químicos 1 da Braskem na Bahia.
 
 Confira nossa entrevista!
 
 ![](images/PMP.png) Certificação internacional mais reconhecida e respeitada da área de Gerenciamento de Projetos
-
 
 ![](images/CAP2.0.jpg) Certificação internacional para profissionais de Automação
 
@@ -48,7 +47,7 @@ Confira nossa entrevista!
 
 **Camila:** Eu conheci o desemprego em 2008, isso me fez ficar fora do mercado de trabalho por 6 meses. Foi um momento bem difícil que fez a minha autoestima como profissional ficar baixa, mas aprendi que isso pode acontecer com qualquer profissional em um momento de crise e que devemos sempre levantar a cabeça e dar a volta por cima, sempre acreditando em nosso potencial.
 
-O fato de ser mulher, algumas vezes dificultava o meu trabalho, e isso me fazia trabalhar duas vezes mais e até me comportar como “homem” para garantir o respeito e credibilidade. 
+O fato de ser mulher, algumas vezes dificultava o meu trabalho, e isso me fazia trabalhar duas vezes mais e até me comportar como “homem” para garantir o respeito e credibilidade.
 
 No início da minha carreira eu também enfrentei algumas dificuldades com colegas de nível técnico que me olhavam como “ameaça” ao cargo deles, sendo que acredito que tem vaga para todos. Eu era confrontada e testada por eles nas minhas atividades, sendo cobrada a saber de tudo pelo simples fato de ser. Todos têm o seu papel e importância, técnicos, analistas, estagiários e engenheiros. Um não é mais importante que o outro.
 
