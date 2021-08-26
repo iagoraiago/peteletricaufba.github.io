@@ -4,16 +4,15 @@ title = "Site de teste do PET"
 theme = "bigspring"
 defaultContentLanguage = "br"
 # post pagination
-paginate = "3"
+paginate = "9"
 # post excerpt
 summaryLength = "15"
+# site folder
+publishDir = "docs"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+disqusShortname = "site-do-pet-eletrica" # get your shortname form here : https://disqus.com
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "UA-35059268-1" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
-
-# added by taffarel55
-publishDir = "docs"
