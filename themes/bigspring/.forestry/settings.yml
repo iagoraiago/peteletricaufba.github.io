@@ -6,36 +6,8 @@ webhook_url:
 sections:
 - type: heading
   label: Homepage
-- type: document
-  path: exampleSite/content/english/_index.md
-  label: Homepage (en)
-- type: document
-  path: exampleSite/content/deutsch/_index.md
-  label: Homepage (de)
 - type: heading
   label: Blog
-- type: document
-  path: exampleSite/content/english/blog/_index.md
-  label: Blog Page (en)
-- type: document
-  path: exampleSite/content/deutsch/blog/_index.md
-  label: Blog Page (de)
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Blog Post (en)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/deutsch/blog
-  label: Blog Post (de)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - post
 - type: heading
   label: Others Page
 - type: document
