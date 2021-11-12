@@ -9,8 +9,8 @@ tags:
   - "normas"
   - "seguranca"
 image: "../../images/blog/2021-07-27-dia-nacional-de-prevencao-ao-acidente-no-trabalho.jpg"
-authors: rafaelShort
-type: "featured"
+author: "Rafael Short"
+type: "corrente-alternativa"
 ---
 
 Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), foi constatado que o Brasil, em 2020, possuía 30,6 milhões de trabalhadores com carteira assinada. Nas suas rotinas de trabalho, esses empregados formais estão frequentemente sujeitos a acidentes, assim como aqueles que não apresentam carteira assinada.

@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions"
+title: "Time"
 subtitle: ""
 # meta description
 description: "This is meta description"
