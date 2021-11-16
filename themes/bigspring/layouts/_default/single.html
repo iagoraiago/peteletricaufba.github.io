@@ -14,7 +14,8 @@
         <!-- comments -->
         {{ if site.DisqusShortname }}
         <div class="mt-5">
-          {{ template "_internal/disqus.html" . }}
+          <!--{{ partial "disqus.html" . }}  Esse é o que eu coloquei depois -->
+          {{ template "_internal/disqus.html" . }} <!-- Esse é o que tava antes -->
         </div>
         {{ end }}
       </div>
