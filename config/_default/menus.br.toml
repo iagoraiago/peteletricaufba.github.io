@@ -14,15 +14,15 @@ name = "Atividades"
 url = "atividades"
 weight = 3
 
-[[main]]
-name = "Minicursos"
-url = "minicurso"
-weight = 4
+# [[main]]
+# name = "Minicursos"
+# url = "minicurso"
+# weight = 4
 
 [[main]]
 name = "Time"
 url = "time"
-weight = 5
+weight = 4
 
 # footer menu left
 [[footer_left]]
