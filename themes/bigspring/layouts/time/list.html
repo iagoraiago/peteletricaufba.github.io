@@ -1,0 +1,104 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<style>
+  /* Three columns side by side */
+  .column {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+
+  /* Display the columns below each other instead of side by side on small screens */
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+
+  /* Add some shadows to create a card effect */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 100%;
+  }
+
+  /* Some left and right padding inside the container */
+  .container {
+    padding: 0 16px;
+  }
+
+  /* Clear floats */
+  .container::after,
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .title {
+    color: grey;
+  }
+
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #001d7e;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  .button:hover {
+    background-color: #555;
+  }
+
+  div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  div.scrollmenu img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 8px;
+  }
+
+  div.scrollmenu img:hover {
+    opacity: 0.5;
+  }
+</style>
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ range (where .Data.Pages "Type" "ativo") }}
+      <div class="column">
+        <div class="card">
+          <img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img rounded-lg mb-4">
+          <div class="container">
+            <h3><a href="{{ .Permalink }}" title="{{ .Title }}" class="post-title">{{ .Title }}</a></h3>
+            <p class="card-text">{{ .Content }}</p>
+            <!-- <p><button class="button">Contact</button></p> -->
+          </div>
+        </div>
+      </div>
+      <!-- TODO Implementar o flipcard https://www.w3schools.com/howto/howto_css_flip_card.asp -->
+      {{ end }}
+    </div>
+    <h2 style="text-align:center; padding:32px;">Hall dos Egressos</h2>
+    <div class="scrollmenu">
+      {{ $paginator := .Paginate (where .Pages "Type" "egresso")}}
+      {{ range $paginator.Pages }}
+      <a href="{{ .Permalink }}" title="{{ .Title }}"><img src="{{ .Params.image |relURL }}" alt="{{ .Title }}"></a>
+      {{end}}
+    </div>
+  </div>
+</section>
+
+{{ end }}

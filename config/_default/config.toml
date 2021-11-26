@@ -1,10 +1,10 @@
 ######################## default configuration ####################
 baseURL = "https://peteletricaufba.github.io/"
-title = "Site de teste do PET"
+title = "PET Elétrica UFBA"
 theme = "bigspring"
 defaultContentLanguage = "br"
 # post pagination
-paginate = "9"
+paginate = "6"
 # post excerpt
 summaryLength = "15"
 # site folder
