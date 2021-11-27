@@ -1,4 +1,87 @@
 {{ define "main" }}
+<style>
+  /* Slideshow container */
+  .slideshow-container {
+    position: relative;
+    height: 300px;
+  }
+
+  /* Slides */
+  .mySlides {
+    display: none;
+    padding: 8px;
+    position: absolute;
+    top: 50%;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    width: 100%;
+  }
+
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -30px;
+    padding: 16px;
+    color: #888;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  /* Position the "next button" to the right */
+  .next {
+    position: absolute;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+  }
+
+  /* Add an italic font style to all quotes */
+  q {
+    font-style: italic;
+  }
+
+  /* Add a blue color to the author */
+  .author {
+    color: cornflowerblue;
+  }
+</style>
+
+<script>
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    if (n > slides.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = slides.length }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slides[slideIndex - 1].style.display = "block";
+  }
+</script>
 
 <!-- banner -->
 {{ with .Params.banner }}
@@ -22,18 +105,46 @@
 {{ end }}
 <!-- /banner -->
 
-<!-- feature -->
-{{ with .Params.feature }}
-{{ if .enable }}
+<!-- Corrente Alternativa Destaque -->
 <section class="section bg-light">
+  <div class="col-12 text-center">
+    <h2 class="section-title">Confira novidades do corrente alternativa</h2>
+  </div>
+  {{ with .Site.GetPage "/blog" }}
+  <div class="slideshow-container">
+  {{ range first 1 (where .Data.Pages "Type" "featured") }}
+  <div class="col-12 mb-5 pb-5">
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <img src="{{ .Params.image | relURL }}" alt="{{.Title}}" class="card-img rounded-lg mb-4">
+      </div>
+      <div class="col-md-6">
+        <h2><a href="{{ .Permalink }}" title="{{ .Title }}" class="post-title">{{ .Title }}</a></h2>
+        <p class="card-text">{{ .Summary }}</p>
+        <a href="{{.Permalink}}" title="{{ i18n " readmore" }} - {{ .Title }}" class="btn btn-primary">{{ i18n
+          "readmore" }}</a>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+  {{ end }}
+</section>
+
+<!-- /Corrente Alternativa Destaque -->
+
+<!-- triade -->
+{{ with .Params.triade }}
+{{ if .enable }}
+<section class="section">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
       </div>
-      {{ range .feature_item }}
+      {{ range .triade_item }}
       <div class="col-md-4 col-sm-6 mb-4">
-        <div class="feature-card text-center">
+        <div class="feature-card text-center bg-light">
           <i class="{{.icon}} mb-3"></i>
           <h4 class="mb-2">{{ .name | title }}</h4>
           <p>{{ .content | markdownify }}</p>
@@ -45,14 +156,40 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /feature -->
+<!-- /triade -->
+
+<!-- Depoimentos -->
+{{ with .Params.memorial }}
+{{ if .enable }}
+<section class="section bg-light">
+  <div class="slideshow-container">
+    <div class="col-12 text-center">
+      <h2 class="section-title">{{ .title | markdownify }}</h2>
+    </div>
+    {{ range .memorial_item }}
+    <div class="mySlides">
+      <!-- TODO: Acrescentar foto das pessoas -->
+      <q>{{ .content | markdownify }}</q>
+      <p class="author">- {{ .name | title }}</p>
+    </div>
+    {{ end }}
+
+    <!-- Next/prev buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /depoimentos -->
 
 <!-- service -->
 {{ with .Params.service }}
 {{ if .enable }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}
-<section class="section">
+<section class="section bg-light">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
@@ -60,7 +197,8 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
+        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i
+            class="fas fa-arrow-right"></i></a>
         {{ end }}
         {{ end }}
       </div>
@@ -75,7 +213,7 @@
   </div>
 </section>
 {{ else }}
-<section class="section bg-light">
+<section class="section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mb-4 mb-md-0">
@@ -90,7 +228,8 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
+        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i
+            class="fas fa-arrow-right"></i></a>
         {{ end }}
         {{ end }}
       </div>
@@ -106,7 +245,7 @@
 <!-- screenshot -->
 {{ with .Params.screenshot }}
 {{ if .enable }}
-<section class="section pb-0">
+<section class="section pb-0 bg-light">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">

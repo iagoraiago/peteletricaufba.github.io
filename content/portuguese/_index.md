@@ -1,54 +1,53 @@
 ---
 ####################### Banner #########################
+# Sobre o PET Elétrica
 banner:
-  title : "O site do PET está de cara nova"
+  title : "PET Elétrica UFBA"
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
-    enable : true
+    enable : False
     label : "Vamo lá!"
     link : "contact"
 
-##################### Feature ##########################
-feature:
+##################### Triade ##########################
+triade:
   enable : true
-  title : "Something You Need To Know"
-  feature_item:
-    # feature item loop
-    - name : "Clean Code"
+  title : "Tríade para formação acadêmica."
+  triade_item:
+    - name : "Pesquisa"
       icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
-    # feature item loop
-    - name : "Object Oriented"
+    - name : "Ensino"
       icon : "fas fa-object-group"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
-    # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Value For Money"
+    - name : "Extensão"
       icon : "fas fa-heart"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
 
+##################### Depoimentos ##########################
+memorial:
+  enable : true
+  title : "Depoimentos"
+  memorial_item:
+    - name : "John Galt"
+      image : "fas fa-code"
+      content : I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine. 
+      
+    - name : "Francisco d'Anconia"
+      image : "fas fa-object-group"
+      content : An honest man is one who knows that he can't consume more than he has produced.
+      
+    - name : "Ragnar Danneskjöld"
+      image : "fas fa-heart"
+      content : Look more carefully, Mr. Rearden. There are only two modes of living left to us today, to be a looter who robs disarmed victims or to be a victim who works for the benefit of his own despoilers. I did not choose to be either.
 
 ######################### Service #####################
+# Slide Show com Link pro Drive de Eletrica e seletor de materias
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
@@ -92,22 +91,25 @@ service:
         label : "Check it out"
         link : "#"
         
+        
 ################### Screenshot ########################
+# Destaques Corrente Alternativa
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
   
 
-##################### Call to action #####################
+##################### Call to Action #####################
+#depoimentos
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Pronto para se juntar a nós?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Processo Seletivo"
     link : "contact"
 ---
