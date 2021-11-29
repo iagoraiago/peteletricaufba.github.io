@@ -44,11 +44,11 @@ memorial:
       image : "fas fa-heart"
       content : Look more carefully, Mr. Rearden. There are only two modes of living left to us today, to be a looter who robs disarmed victims or to be a victim who works for the benefit of his own despoilers. I did not choose to be either.
 
-######################### Service #####################
-# Slide Show com Link pro Drive de Eletrica e seletor de materias
-service:
+######################### Destaques #####################
+# Slide Show com Links pro destaque (Link pro Youtube, Seletor, Drive e site do Caeel)
+destaques:
   enable : false
-  service_item:
+  destaque_item:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
       images:
@@ -90,19 +90,11 @@ service:
         enable : true
         label : "Check it out"
         link : "#"
-        
-        
-################### Screenshot ########################
-# Destaques Corrente Alternativa
-screenshot:
-  enable : false
-  title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
 
   
 
-##################### Call to Action #####################
-#depoimentos
+##################### Processo seletivo #####################
+#
 call_to_action:
   enable : true
   title : "Pronto para se juntar a nós?"
@@ -111,5 +103,5 @@ call_to_action:
   button:
     enable : true
     label : "Processo Seletivo"
-    link : "contact"
+    link : "#"
 ---
