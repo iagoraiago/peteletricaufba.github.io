@@ -9,7 +9,8 @@ tags:
   - "normas"
   - "seguranca"
 image: "../../images/blog/2021-07-27-dia-nacional-de-prevencao-ao-acidente-no-trabalho.jpg"
-authors: rafaelShort
+authors: 
+  - rafaelShort
 type: "featured"
 ---
 

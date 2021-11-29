@@ -1,0 +1,26 @@
+{
+    "joeltonDJunior": {
+        "name": "Joelton D. Junior",
+        "image": "images/time/joeltonDJunior.jpg",
+        "site": "https://freedxm.com/",
+        "bio": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?"
+    },
+    "brenoAmin": {
+        "name": "Breno Amin",
+        "image": "images/time/brenoAmin.jpg",
+        "site": "",
+        "bio": "Olá, eu sou Breno Amin Matos Gomes, graduando do curso Engenharia Elétrica da UFBA. Um amante de ciências e tecnologias, fã de esportes nas horas vagas e um curioso pelo novo do mundo..."
+    },
+    "elderPereira": {
+        "name": "Elder Pereira",
+        "image": "images/time/elderPereira.jpg",
+        "site": "",
+        "bio": "Eu sou Elder Pereira, graduando do curso de Engenharia Elétrica. Sou um cara hidratado que gosta de viajar, assistir boas series e que ama aprender novas tecnologias."
+    },
+    "rafaelShort": {
+        "name": "Rafael Short",
+        "image": "images/time/rafaelShort.jpg",
+        "site": "",
+        "bio": "Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever texos, ouvir músicas e aprender novos idiomas."
+    }
+}

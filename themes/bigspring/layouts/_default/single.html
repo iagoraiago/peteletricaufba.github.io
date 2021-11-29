@@ -1,4 +1,25 @@
 {{ define "main" }}
+<style>
+  .authorbio {
+    position: relative;
+    height: 150px;
+    border-radius: 3px;
+    border-color: black;
+  }
+
+  .authorimage img {
+    float: left;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    padding: 8px;
+  }
+
+  .authorcontent {
+    float: right;
+    padding: 8px;
+  }
+</style>
 
 <!-- checking blog -->
 {{ if or (or (eq .Section "post") (eq .Section "blog")) (or (eq .Section "categories") (eq .Section "tags") )}}
@@ -10,12 +31,34 @@
         <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4">
         <h2 class="mb-4">{{ .Title }}</h2>
         <div class="content">{{.Content}}</div>
-        platform regulatory.0: Direct firmware load for regulatory.db failed with error -2
+
+        <!-- Assinatura dos autores -->
+        <!-- TODO: todo o .css -->
+        {{ with .Params.authors }}
+        {{ range . }}
+        <div class="authorbio">
+          <div class="authorimage"><img src='{{ index $.Site.Data.blog.signatures . "image" }}'
+              alt='{{ index $.Site.Data.blog.signatures . "name" }}' data-pagespeed-url-hash="1651134052"
+              onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></div>
+          <div class="autorcontent">
+            <div class="autorhead">
+              <h3><a href="#" target="_blank" rel="noopener">{{ index $.Site.Data.blog.signatures . "name" }}</a></h3>
+            </div>
+            <p class="bio">{{ index $.Site.Data.blog.signatures . "bio" }}</p>
+            <!-- <p><a href="" target="_blank" rel="noopener">Leia mais sobre o autor</a></p> -->
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+        <!-- \Assinatura dos autores -->
+
+
         <!-- comments -->
         {{ if site.DisqusShortname }}
         <div class="mt-5">
           <!--{{ partial "disqus.html" . }}  Esse é o que eu coloquei depois -->
-          {{ template "_internal/disqus.html" . }} <!-- Esse é o que tava antes -->
+          {{ template "_internal/disqus.html" . }}
+          <!-- Esse é o que tava antes -->
         </div>
         {{ end }}
       </div>
