@@ -44,8 +44,6 @@ memorial:
       image : "fas fa-heart"
       content : Look more carefully, Mr. Rearden. There are only two modes of living left to us today, to be a looter who robs disarmed victims or to be a victim who works for the benefit of his own despoilers. I did not choose to be either.
 
-      12121
-      
 
 ######################### Destaques #####################
 # Slide Show com Links pro destaque (Link pro Youtube, Seletor, Drive e site do Caeel)
